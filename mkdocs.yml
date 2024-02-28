@@ -1,0 +1,32 @@
+site_name: Revista Darcy
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/git-alt
+  palette:
+    - scheme: default 
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: green
+      accent: #8ECDDD
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: green
+      accent: #8ECDDD
+  font:
+    text: Roboto
+  language: pt
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - navigation.tabs.sticky
