@@ -1,9 +1,9 @@
 ---
-name: Template para issue
+name: issue_template
 about: Template padrão para issue.
 title: ''
 labels: documentation
-assignees: JeffersonSenaa
+assignees: 
 
 ---
 
