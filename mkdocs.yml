@@ -4,8 +4,7 @@ nav:
   - Home: index.md
   - Políticas:
     - Plano de Comunicação: politicas/plano-de-comunicacao.md
-    - Respeito: politicas/respeito.md
-    - Contribuição: politicas/contribuicao.md
+    - Conduta: politicas/conduta.md
     - Commits: politicas/commit.md
     - Branches: politicas/branches.md
 
