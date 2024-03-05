@@ -14,8 +14,10 @@ O propósito deste documento é formalizar os canais de comunicação entre os m
 | Ícone            | Ferramenta    | Descrição                                |
 | :--------------: | :-----------: | :--------------------------------------: |
 | ![image](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg) | GitHub | Sistema de controle de versão, que abriga os códigos do produto, e por meio desse sistema são realizados comentários nas questões (issues) que estão sendo trabalhadas.|
-| ![image](https://cdn-icons-png.flaticon.com/256/5968/5968804.png) | Discord | Utilizado para a comunicação rápida e do dia a dia, para dinamizar a troca de informações entre a equipe. |
+| ![image](https://cdn-icons-png.flaticon.com/256/5968/5968804.png) | Telegram | Utilizado para a comunicação rápida e do dia a dia, para dinamizar a troca de informações entre a equipe. |
 | ![image](https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png) | Discord | Utilizado para reuniões como pré-planejamento e planejamento da sprint, sprint review, daily e quaisquer outras reuniões que forem marcadas. |
+| ![image](https://seeklogo.com/images/M/microsoft-teams-logo-EA3C0316D6-seeklogo.com.png) | Teams | Utilizado para reuniões com stakeholders e transação de documentos.|
+
 
 ## 3. Diretrizes e procedimentos usados para comunicar
 ### 3.1 Comunicação Geral
