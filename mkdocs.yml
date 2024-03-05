@@ -33,6 +33,16 @@ theme:
 
 nav:
   - Ínicio: index.md
-  - Visão de Produto e Projeto:
+  - Requisitos:
     - Visão de Produto: visao_de_produto.md
     - Visão de Projeto: visao_de_projeto.md
+  - Documentação Interna:
+    - Políticas Internas: 
+      - Branches: politicas/branches.md
+      - Commit: politicas/commit.md
+      - Conduta: politicas/conduta.md
+      - Plano de Comunicação: politicas/plano-de-comunicacao.md
+    - Sprints:
+      - Sprint 00: 
+        - Planejamento: sprints/sprint00/planejamento.md
+        - Resultados: sprints/sprint00/resultados.md

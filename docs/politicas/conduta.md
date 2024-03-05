@@ -14,7 +14,7 @@ Residentes do projeto de imersão TIC Brisa Lappis administram o projeto. Com o 
 
 ## Comportamento
 
-### Comportamentos aceitáveis
+### Para estimular aceitáveis
 
 - Reconhecimento e apreciação de diversas opiniões, perspectivas e vivências.
 - Estímulo à prática de críticas construtivas, tanto ao oferecer quanto ao receber feedback.
@@ -22,7 +22,7 @@ Residentes do projeto de imersão TIC Brisa Lappis administram o projeto. Com o 
 - Emprego de linguagem acolhedora e inclusiva.
 - Expressão de empatia em relação aos membros da comunidade.
 
-### Comportamentos inaceitáveis
+### Para evitar comportamentos inaceitáveis
 
 - Compromisso de não utilizar linguagem ou imagens com conotação sexual.
 - Evitar comportamentos provocativos, insultuosos, depreciativos, bem como ataques pessoais ou políticos.
