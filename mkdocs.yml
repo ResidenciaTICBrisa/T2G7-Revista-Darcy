@@ -30,3 +30,9 @@ theme:
     - navigation.top
     - navigation.tracking
     - navigation.tabs.sticky
+
+nav:
+  - Ínicio: index.md
+  - Visão de Produto e Projeto:
+    - Visão de Produto: visao_de_produto.md
+    - Visão de Projeto: visao_de_projeto.md
