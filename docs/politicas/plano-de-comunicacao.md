@@ -1,10 +1,6 @@
 ---
-excerpt: ""
+tag: "politicas"
 ---
-| Data       | Versão | Descrição                      | Autor             |
-| :--------: | :----: | :----------:                   | :---------------: |
-| 04/03/2024 |  0.1   | Criação do documento | [Joselito Prado](https://github.com/joselitopradomarques)|
-
 
 ## 1. Objetivo
 O propósito deste documento é formalizar os canais de comunicação entre os membros do projeto, delineando desde as ferramentas empregadas até os procedimentos essenciais para garantir a adequada armazenagem, organização e distribuição das informações.
@@ -21,6 +17,7 @@ O propósito deste documento é formalizar os canais de comunicação entre os m
 
 
 ## 3. Diretrizes e procedimentos usados para comunicar
+
 ### 3.1 Comunicação Geral
 
 A **comunicação** é a chave principal para o bom progresso do projeto. Tendo isso em vista, é importante zelar pela clareza nas interações. Portanto, os pontos cruciais a serem levados como pilares são:
@@ -30,23 +27,26 @@ A **comunicação** é a chave principal para o bom progresso do projeto. Tendo 
 
 
 ### 3.2 Gerência de Reuniões
-#### 3.2.1 Pré-planejamento da Sprint
 
-Num encontro semanal, todos os membros se reúnem para decidir, coletivamente, as atividades e funcionalidades a serem realizadas pelos integrantes, alinhando-se com as disponibilidades e o calendário de todos.
+#### 3.2.1 Planejamento da Sprint
 
-Além disso, são avaliadas as melhorias que devem ser implementadas e o esforço necessário para executar cada tarefa.
+Num encontro semanal, todos os membros se reúnem para decidir, coletivamente, as atividades e funcionalidades a serem realizadas pelos integrantes, alinhando-se com as disponibilidades e o calendário de todos. Após, todos integrantes dividem as que ficarão alocadas  entre os membros de acordo com dificuldade e disponibilidade. Além disso também são levantadas quais melhorias podem ser feitas.
 
-#### 3.2.2 Planejamento da Sprint
-Após o pré-planejamento, todos integrantes dividem as que ficarão alocadas  entre os membros de acordo com dificuldade e disponibilidade. Além disso também são levantadas quais melhorias podem ser feitas.
+#### 3.2.2 Daily
+Tarefa realizada pelo discord, onde cada integrante explica de forma clara: o que foi feito desde a última reunião e o que pretende fazer até a próxima, dessa forma os integrantes estão se mantendo informados do andamento da sprint.
 
-#### 3.2.3 Reuniões Semanais
-Tarefa realizada pelo discord d, onde cada integrante explica de forma clara: o que foi feito desde a última reunião e o que pretende fazer até a próxima, dessa forma os integrantes estão se mantendo informados do andamento da sprint.
-
-#### 3.2.4 Sprint Review
+#### 3.2.3 Sprint Review
 Reunião para mostrar os resultados positivos da sprint, cada membro mostra o trabalho que fez para que o time possa fornecer e obter feedback. 
 
-## 4. Referências
+## 4. Histórico de Versões
+
+| Versão | Autor | Descrição | Revisor | Data |
+| -------| ----- | --------- | ---- | ----- |
+| 1.0    | [Joselito Prado](https://github.com/joselitopradomarques) | Criação da política de commits | [José André](https://github.com/joseandre25)| 04/03/2024 |
+| 1.1    | [José André](https://github.com/joseandre25) | Padronização de Tópicos | [Joselito Prado](https://github.com/joselitopradomarques) | 11/03/2024 |
+
+## 5. Referências
 
 IEEE (2012), IEEE Guide--Adoption of the Project Management Institute (PMI) Standard A Guide to the Project Management Body of Knowledge (PMBOK Guide)--Fifth Edition.
 
-FELIPE, Caio; FREITAS, Gesiel; BUSCHE, João Paulo; CARVALHO, Vinícius; PINHEIRO, Vinicius. SIGS - Plano de Gerenciamento de Comunicação. Disponível em: https://github.com/fga-eps-mds/2017.1-SIGS/wiki/Plano-de-Gerenciamento-de-Comunica%C3%A7%C3%A3o#32-gerencia-de-reuni%C3%B5es. Acesso em: 04 de março de 2024.
+FELIPE, Caio; FREITAS, Gesiel; BUSCHE, João Paulo; CARVALHO, Vinícius; PINHEIRO, Vinicius. SIGS - Plano de Gerenciamento de Comunicação. Disponível em: <https://github.com/fga-eps-mds/2017.1-SIGS/wiki/Plano-de-Gerenciamento-de-Comunica%C3%A7%C3%A3o#32-gerencia-de-reuni%C3%B5es>. Acesso em: 04 de março de 2024.

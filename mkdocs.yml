@@ -34,8 +34,8 @@ theme:
 nav:
   - Ínicio: index.md
   - Requisitos:
-    - Visão de Produto: visao_de_produto.md
-    - Visão de Projeto: visao_de_projeto.md
+    - Visão de Produto: requisitos/visao_de_produto.md
+    - Visão de Projeto: requisitos/visao_de_projeto.md
   - Documentação Interna:
     - Políticas Internas: 
       - Branches: politicas/branches.md
@@ -46,3 +46,9 @@ nav:
       - Sprint 00: 
         - Planejamento: sprints/sprint00/planejamento.md
         - Resultados: sprints/sprint00/resultados.md
+      - Sprint 01: 
+        - Planejamento: sprints/sprint01/planejamento.md
+        - Resultados: sprints/sprint01/resultados.md
+    - Atas:
+      - Reunião 1: atas/ata01.md
+      - Reunião 2: atas/ata02.md
