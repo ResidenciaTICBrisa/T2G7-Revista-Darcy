@@ -1,4 +1,4 @@
-## O que foi feito
+## 1. O que foi feito
 
 Nessa sprint conseguimos nos organizar como equipe, estabelecemos as funções de cada membro de acordo com o SCRUM. Além disso, organizamos nossos canais de comunicação e configuramos nosso repositório do github, estabelecendo padrões de commit e pull request. Também configuramos proteções para a branch main para evitar inconsistências em nosso repositório. Também configuramos uma gitpage no repositório com nossa documentação utilizando o MKDocs.
 
@@ -6,7 +6,7 @@ Tivemos também a reunião de kickoff com a cliente onde pudemos ter uma visão 
 
 #
 
-## Issues 
+## 2. Issues 
 
 |                            Issue                             |              Título               |                    Status                     |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
@@ -15,20 +15,20 @@ Tivemos também a reunião de kickoff com a cliente onde pudemos ter uma visão 
 | [#8](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/8) | Sprint 0 - Kickoff Meeting e Definição do Cronograma Inicial |  _Concluído_|
 | [#15](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/15) | Sprint 0 - Configuração e Gerência do Repositório |  _Concluído_|
 
-## Reuniões
+## 3. Reuniões
 
-Nessa Sprint 00 tivemos duas reuniões.
+Nessa Sprint 00 tivemos duas reuniões.  
 
-| Data       | Tema                             
-| :---------:| :--------------------------:      
-| 27/02/2024 | Reunião Interna - Apresentação e ambientação
-| 28/02/2024 | Reunião com a Cliente - Kickoff     
+| Data       | Tema | Ata                                
+| :--------: | :----: | :--------------------:                   
+| 27/02/2024 |  Reunião Interna - Apresentação e ambientação   | 
+| 28/02/2024 | Reunião com a Cliente - Kickoff  | [Clique Aqui](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/atas/ata01/)                     
 
-## Avaliação do Scrum Master
+## 4. Avaliação do Scrum Master
 
 Durante esta sprint, observamos uma evolução significativa na interação entre os membros da equipe, assim como na familiarização deles com o projeto. Além disso, tivemos a oportunidade de conhecer mais sobre a cliente e compreender melhor tanto o projeto quanto o produto esperado.
 
-## Histórico de Versões
+## 5. Histórico de Versões
 
 | Data       | Versão | Descrição                                 | Autor             |
 | :--------: | :----: | :--------------------:                    | :---------------: |

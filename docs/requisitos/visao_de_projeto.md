@@ -1,33 +1,29 @@
 #  Visão Geral do Projeto
 
-## 2.1 Organização do Projeto
+## 1. Organização do Projeto
 
 A tabela a seguir possui os integrantes definidos para cada divisão de atribuições de tarefas a serem cumpridas.
 
 | **PAPEL**                           | **ATRIBUIÇÕES**                                                                                                 | **INTEGRANTE**   | 
 |:------------------------------------|:----------------------------------------------------------------------------------------------------------------:|:----------------:|
-| Dono do Produto                     | Coordenar as fases do projeto, atualizar escopo do produto, validar as entregas e gerenciar prazos.               | Jefferson Sena Oliveira       |
+| Product Owner                     | Coordenar as fases do projeto, atualizar escopo do produto, validar as entregas e gerenciar prazos.               | [Jefferson Sena](https://github.com/JeffersonSenaa)       |
 | Desenvolvedor                       | Codificar e construir o software definido a partir dos requisitos analisados.                                     | Equipe        |
-| Scrum Master    | Garantir a compreensão e adoção do Scrum pela equipe. Estimular a comunicação eficaz e a colaboração dentro da equipe Scrum.                                 | José André Rabelo Rocha          |
+| Scrum Master    | Garantir a compreensão e adoção do Scrum pela equipe. Estimular a comunicação eficaz e a colaboração dentro da equipe Scrum.                                 | [José André](https://github.com/joseandre25)          |
 | Design e prototipagem de interfaces | Prototipa possíveis interfaces a serem implementadas no software, mantendo padrões definidos.                     |   Equipe       |
 | Análise de requisitos      | Descobre, propõe e analisa os requisitos do produto, documentando e esclarecendo possíveis dúvidas aos envolvidos. | Equipe      |
-| Cliente                             | Valida o produto e propõe requisitos que o mesmo necessita que exista na aplicação.                               | Secretária de Cominicação UnB           |
+| Cliente                             | Valida o produto e propõe requisitos que o mesmo necessita que exista na aplicação.                               | Secretaria de Comunicação UnB           |
 
 
-## 2.2 Planejamento das sprints do projeto
+## 2. Planejamento das sprints do projeto
 
 | **SPRINT**  |                           **PRODUTO(ENTREGAS)**                           | **INÍCIO**      |    **FIM**     |
 |:-------------:|:-------------------------------------------------------------------------:|:---------------:|:--------------:|
-|       0       | Reuniões inicias, criação da página de documentação e cronograma          |  19/02/20234    | 01/03/2024     |
-|       1       | Planejamento, definição de backlog, requisitos brutos e validação.        |  04/03/2023     | 08/03/2024     |
+|       [0](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/sprints/sprint00/planejamento/)       | Reuniões inicias, criação da página de documentação e cronograma          |  26/02/20234    | 04/03/2024     |
+|       [1](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/sprints/sprint01/planejamento/)       | Planejamento, definição de backlog, requisitos brutos e validação.        |  04/03/2023     | 11/03/2024     |
+|       [2](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/sprints/sprint02/planejamento/)       | Planejamento, refinamento do backlog, requisitos brutos e validação. Formulário de pesquisa e obtenção de dados.       |  11/03/2023     | 18/03/2024     |
 
-
-
-## 2.3 Matriz de Comunicação
-                         
-
-
-## 2.5 Gerenciamento de riscos
+                        
+## 3. Gerenciamento de riscos
 
 Os riscos identificados para o projeto foram:
 
@@ -38,7 +34,7 @@ Os riscos identificados para o projeto foram:
     - Solução:
       Replanejamento das atribuições designadas e replanejamento das fases de desenvolvimento.
 
-## 2.6 Critérios de Replanejamento
+## 3. Critérios de Replanejamento
 
    - **Diminuição dos membros da equipe**
 
@@ -52,8 +48,9 @@ Os riscos identificados para o projeto foram:
 
    Caso haja insatisfação por parte do cliente, é importante que a equipe refaça a análise dos defeitos apontados, com o objetivo de trazer as causas da insatisfação e assim trazer uma melhoria para tal aspecto.
 
-## Histórico de versão
+## 4. Histórico de Versões
 
-| Versão  | Autor| Descrição | Data |
-| :---: | :----: | :-------: | :---: |
-|    1.0   |   Tiago Albuquerque     |   Criação da visão de projeto |  05/03 |
+| Versão | Autor | Descrição | Revisor | Data |
+| -------| ----- | --------- | ---- | ----- |
+| 1.0    | [Tiago Albuquerque](https://github.com/Tiago1604) | Criação da visão de projeto | [José André](https://github.com/joseandre25)| 05/03/2024 |
+| 1.1    | [José André](https://github.com/joseandre25) | Correção de Tópicos e Adição de Sprint | [Tiago Albuquerque](https://github.com/Tiago1604) | 11/03/2024 |
