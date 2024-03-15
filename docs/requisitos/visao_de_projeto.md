@@ -20,7 +20,7 @@ A tabela a seguir possui os integrantes definidos para cada divisão de atribui�
 |:-------------:|:-------------------------------------------------------------------------:|:---------------:|:--------------:|
 |       [0](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/sprints/sprint00/planejamento/)       | Reuniões inicias, criação da página de documentação e cronograma          |  26/02/20234    | 04/03/2024     |
 |       [1](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/sprints/sprint01/planejamento/)       | Planejamento, definição de backlog, requisitos brutos e validação.        |  04/03/2023     | 11/03/2024     |
-|       [2](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/sprints/sprint02/planejamento/)       | Planejamento, refinamento do backlog, requisitos brutos e validação. Formulário de pesquisa e obtenção de dados.       |  11/03/2023     | 18/03/2024     |
+|       [2](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/sprints/sprint02/planejamento/)       | Configuração do ambiente Wordpress, refinamento do backlog, requisitos brutos e validação. Formulário de pesquisa e obtenção de dados.       |  11/03/2023     | 25/03/2024     |
 
                         
 ## 3. Gerenciamento de riscos

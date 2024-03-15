@@ -8,15 +8,18 @@ theme:
     - scheme: default 
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        name: Modo Escuro
       primary: green
       accent: #8ECDDD
     - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Modo Claro  
       primary: green
       accent: #8ECDDD
+  favicon: assets/favicon.ico
+  logo: assets/favicon.ico
+
   font:
     text: Roboto
   language: pt
@@ -49,6 +52,9 @@ nav:
       - Sprint 01: 
         - Planejamento: sprints/sprint01/planejamento.md
         - Resultados: sprints/sprint01/resultados.md
+      - Sprint 02: 
+        - Planejamento: sprints/sprint02/planejamento.md
+        - Resultados: sprints/sprint02/resultados.md
     - Atas:
       - Reunião 1: atas/ata01.md
       - Reunião 2: atas/ata02.md
