@@ -1,4 +1,4 @@
-## O planejado
+## 1. O planejado
 
 O objetivo dessa sprint é nos organizarmos internamente, definindo os papéis dos membros de acordo com o SCRUM. Além disso, precisamos configurar nosso repositório do github e definir regras de proteção de branch, além de padrões de issue e pull request. É necessário a criação de uma gitpage com MKDOCS para documentarmos nosso processo de trabalho. Ideal que essa gitpage seja automatizada com o github actions assim como os padrões de commit e pull request.
 
@@ -6,7 +6,7 @@ O objetivo dessa sprint é nos organizarmos internamente, definindo os papéis d
 
 #
 
-## Duração da Sprint
+## 2. Duração da Sprint
 
 **Início**: 26/02/2024
 
@@ -14,7 +14,7 @@ O objetivo dessa sprint é nos organizarmos internamente, definindo os papéis d
 
 **Duração**: 7 dias
 
-## Issues
+## 3. Issues
 
 |                            Issue                             |              Título               |                    Responsáveis                     |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
@@ -23,7 +23,7 @@ O objetivo dessa sprint é nos organizarmos internamente, definindo os papéis d
 | [#8](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/8) | Sprint 0 -  Kickoff Meeting e Definição do Cronograma Inicial    |  [Todos]|
 | [#15](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/15) | Sprint 0 -  Configuração e Gerência do Repositório  |  [Jefferson Sena](https://github.com/JeffersonSenaa) e [José André](https://github.com/joseandre25)|
 
-## Papéis da Equipe
+## 4. Papéis da Equipe
 
 | Função        |                                                                           Nome                                                                            |
 | ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -33,7 +33,7 @@ O objetivo dessa sprint é nos organizarmos internamente, definindo os papéis d
 | Dev Team      |                                                    [Tiago Albuquerque](https://github.com/Tiago1604)                                                    |
 | Dev Team      |                                                    [Luís Filipe](https://github.com/luisfilipe3)                                                    |
 
-## Histórico de Versões
+## 5. Histórico de Versões
 
 | Data       | Versão | Descrição                                 | Autor             |
 | :--------: | :----: | :--------------------:                    | :---------------: |

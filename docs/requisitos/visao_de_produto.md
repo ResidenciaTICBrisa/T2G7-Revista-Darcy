@@ -2,13 +2,13 @@
 
 ## 1. Problema
 
-<p align="justify">&emsp;&emsp; Foi identificado uma dificuldade quanto a ferramenta atualmente utilizada pela secretaria de Comunicação da Universidade de Brasília. Por utilizarem o Joomla, um sistema de gerenciamento de conteúdo (CMS) de código aberto usado para construir websites e aplicativos online. Enfrentam dificuldades em atualizar os conteúdos pela alta complexidade desse sistema. Surgindo então, a necessidade de uma migração de plataforma. </p>
+Foi identificado uma dificuldade quanto a ferramenta atualmente utilizada pela secretaria de Comunicação da Universidade de Brasília. Por utilizarem o Joomla, um sistema de gerenciamento de conteúdo (CMS) de código aberto usado para construir websites e aplicativos online. Enfrentam dificuldades em atualizar os conteúdos pela alta complexidade desse sistema. Surgindo então, a necessidade de uma migração de plataforma. 
 
-<p align="justify">&emsp;&emsp; Além disso, a Revista Darcy, como veículo de divulgação das principais atividades da Universidade, busca ampliar sua base de leitores. Para alcançar esse objetivo, é essencial contar com uma plataforma intuitiva e prática, que facilite o acesso e a interação com diversos perfis de leitores.</p>
+Além disso, a Revista Darcy, como veículo de divulgação das principais atividades da Universidade, busca ampliar sua base de leitores. Para alcançar esse objetivo, é essencial contar com uma plataforma intuitiva e prática, que facilite o acesso e a interação com diversos perfis de leitores.
 
 
 ## 2. Posição do Produto
-<p align="justify">&emsp;&emsp; Uma plataforma WEB intuitiva e com recursos visuais que proporcionem uma experiência de leitura agradável, assim como o formato impresso da revista, é essencial para o sucesso da Revista Darcy. Além disso, é importante que esta ferramenta expanda o alcance a diferentes tipos de leitores, oferecendo recursos para interação, como comentários e compartilhamento de conteúdo. Adicionalmente, a plataforma é adaptável a diversos dispositivos, o que garante uma experiência consistente e acessível em computadores, tablets e smartphones. </p>
+Uma plataforma WEB intuitiva e com recursos visuais que proporcionem uma experiência de leitura agradável, assim como o formato impresso da revista, é essencial para o sucesso da Revista Darcy. Além disso, é importante que esta ferramenta expanda o alcance a diferentes tipos de leitores, oferecendo recursos para interação, como comentários e compartilhamento de conteúdo. Adicionalmente, a plataforma é adaptável a diversos dispositivos, o que garante uma experiência consistente e acessível em computadores, tablets e smartphones. 
 
 |     Para      |                          **Leitores da Revista Darcy**                      |
 | :-----------: | :-------------------------------------------------------------------------------------------: |
