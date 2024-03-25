@@ -21,14 +21,14 @@ Exemplo:
 
 - **Branch main:** Branch que contém o código mais consolidado existente na aplicação. Nenhum integrante dos times é autorizado a fazer commits diretamente na *main*, o que é garantido através da rule criada no GitHub.
 
-## 3. Histórico de Versões
+## 2. Histórico de Versões
 
 | Versão | Autor | Descrição | Revisor | Data |
 | -------| ----- | --------- | ---- | ----- |
 | 1.0    | [Joselito Prado](https://github.com/joselitopradomarques) | Criação da política de branch | [José André](https://github.com/joseandre25)| 04/03/2024 |
 | 1.1    | [José André](https://github.com/joseandre25) | Padronização de Tópicos | [Joselito Prado](https://github.com/joselitopradomarques) | 11/03/2024 |
 
-## 4. Referências
+## 3. Referências
 
 DULCETTI, Bruno. Padrões e nomenclaturas no Git. *BrunoDulcetti*. Disponível em: <https://www.brunodulcetti.com/padroes-e-nomenclaturas-no-git/>. Acesso em: 04 de março de 2024.
 

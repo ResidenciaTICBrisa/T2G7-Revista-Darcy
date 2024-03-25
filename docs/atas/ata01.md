@@ -2,7 +2,7 @@ PROJETO BRISA – LAPPIS/FGA/UNB.
 REFORMULAÇÃO DO SITE DA REVISTA DARCY
 
 # Ata da Reunião 1 
-- **Data**: 29 de março de 2024
+- **Data**: 29 de fevereiro de 2024
 - **Horário:** 10h00
 - **Local:** Microsoft Teams
 
