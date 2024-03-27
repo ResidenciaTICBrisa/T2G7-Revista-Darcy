@@ -1,8 +1,12 @@
 # Revista Darcy
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/BRISArevistaDarcyLogo.png" style="width:30vw"/>
+    <img src="https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/logorevistadarcy250px.png" style="width:30vw"/>
 </div>
+
+## Plataformas
+- [Revista Darcy - Site Atual](https://revistadarcy.unb.br/)
+- [Revista Darcy - Plataforma em Desenvolvimento pela equipe TIC BRISA](https://brisa.olympusswe.com)
 
 ## Sobre a Revista Darcy
 - **Descrição:** A Revista Darcy, criada em 2009 e sob a responsabilidade da Secretaria de Comunicação da Universidade de Brasília, destaca-se como uma publicação dedicada ao jornalismo científico e cultural. Projetada como uma vitrine da produção acadêmica da UnB, a revista apresenta reportagens que comunicam, de maneira acessível, as atividades de pesquisa e extensão desenvolvidas na instituição, oferecendo uma visão cativante e informativa do cenário acadêmico.
@@ -29,6 +33,7 @@ Este projeto é fruto do programa de Residência em TIC, conduzido pela BRISA �
     <td align="center"><a href="https://github.com/joseandre25"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98027989?v=4" width="100px;" alt=""/><br /><sub><b>José André</b></sub></a><br />
     <td align="center"><a href="https://github.com/JeffersonSenaa"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/73854228?v=4" width="100px;" alt=""/><br /><sub><b>Jefferson Sena</b></sub></a><br />
     <td align="center"><a href="https://github.com/Tiago1604"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98188815?v=4" width="100px;" alt=""/><br /><sub><b>Tiago Albuquerque</b></sub></a><br />
+    <td align="center"><a href="https://github.com/gabriel-moraiss"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/160560632?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Morais</b></sub></a><br />
     <td align="center"><a href="https://github.com/luisfilipe3"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/135170965?v=4" width="100px;" alt=""/><br /><sub><b>Luís Filipe</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
     <td align="center"><a href="https://github.com/joselitopradomarques"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/22534900?v=4" width="100px;" alt=""/><br /><sub><b>Joselito Prado</b></sub></a><br />
   </tr>
