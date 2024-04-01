@@ -64,3 +64,4 @@ Os riscos identificados para o projeto foram:
 | -------| ----- | --------- | ---- | ----- |
 | 1.0    | [Tiago Albuquerque](https://github.com/Tiago1604) | Criação da visão de projeto | [José André](https://github.com/joseandre25)| 05/03/2024 |
 | 1.1    | [José André](https://github.com/joseandre25) | Correção de Tópicos e Adição de Sprint | [Tiago Albuquerque](https://github.com/Tiago1604) | 11/03/2024 |
+| 1.2    | [Jefferson Sena](https://github.com/JeffersonSenaa) | Adicionando RoadMap | [Tiago Albuquerque](https://github.com/Tiago1604) | 26/03/2024 |
