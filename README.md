@@ -1,7 +1,7 @@
 # T2G7-Revista-Darcy
 
 <div align="center">
-    <img src="docs/assets/logorevistadarcy250px.png" style="width:30vw"/>
+    <img src="docs/assets/ticabrisalogo.png" style="width:30vw"/>
 </div>
 
 ## Plataformas

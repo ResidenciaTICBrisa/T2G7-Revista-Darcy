@@ -1,7 +1,7 @@
 # Revista Darcy
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/logorevistadarcy250px.png" style="width:30vw"/>
+    <img src="https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/ticabrisalogo.png" style="width:30vw"/>
 </div>
 
 ## Plataformas
