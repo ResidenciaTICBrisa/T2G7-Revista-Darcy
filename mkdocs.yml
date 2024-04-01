@@ -39,6 +39,7 @@ nav:
   - Requisitos:
     - Visão de Produto: requisitos/visao_de_produto.md
     - Visão de Projeto: requisitos/visao_de_projeto.md
+    - Backlog: requisitos/backlog.md
   - Documentação Interna:
     - Políticas Internas: 
       - Branches: politicas/branches.md
