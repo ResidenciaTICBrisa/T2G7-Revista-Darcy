@@ -43,7 +43,7 @@ REFORMULAÇÃO DO SITE DA REVISTA DARCY
 5. Há a possibilidade da equipe de Desgin da  SECOM realizar a prototipação visual da Revista Darcy de acordo com os dados levantados do formulário.
 
 ## 6. Gravação da Reunião
-[Clique Aqui (Dísponível apenas para pessoas em UnB.br).]()
+[Clique Aqui (Dísponível apenas para pessoas em UnB.br).](https://www.youtube.com/watch?v=Kv3xBbzOu0Y)
 
 ## 7. Próxima Reunião
 
