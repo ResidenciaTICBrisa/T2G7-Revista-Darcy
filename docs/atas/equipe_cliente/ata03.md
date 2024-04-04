@@ -47,9 +47,9 @@ REFORMULAÇÃO DO SITE DA REVISTA DARCY
 
 ## 7. Próxima Reunião
 
-- **Data:** 11 de abril de 2024.
+- **Data:** 04 de abril de 2024.
 - **Horário:** 10h00.
-- **Objetivo:** Análise dos dados do formulário; Briefing com os designers da SECOM.
+- **Objetivo:** Perspectiva de identidade visual a partir da programadora visual da SECOM.
 
 ## 8. Responsáveis pela Ata
 | Autor | Descrição | Revisor | Data |
