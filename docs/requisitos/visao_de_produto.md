@@ -54,3 +54,4 @@ Uma plataforma WEB intuitiva e com recursos visuais que proporcionem uma experi�
 | -------| ----- | --------- | ---- | ----- |
 | 1.0    | [Jefferson Sena](https://github.com/JeffersonSenaa) e [Luís Filipe](https://github.com/luisfilipe3) | Adicionando Visão do Produto | [Tiago Albuquerque](https://github.com/Tiago1604)| 02/03/2024 |
 | 1.1    | [José André](https://github.com/joseandre25) | Padronização de Tópicos | [Jefferson Sena](https://github.com/JeffersonSenaa) | 11/03/2024 |
+| 1.2    | [Tiago Albuquerque](https://github.com/Tiago1604) | Diagrama de Causa e Efeito | [Jefferson Sena](https://github.com/JeffersonSenaa) | 11/03/2024 |
