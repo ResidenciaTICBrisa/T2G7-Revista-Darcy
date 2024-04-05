@@ -16,6 +16,15 @@ Tabela de Requisitos:
 |    06   |    Assinar notificação de nova edição   |
 |    07   |    Vizualizar Notícias Relevantes da Universidade  |
 
+Tabela de Requisitos Não Funcionais: 
+
+|    **ID**   |      **Requisitos Não Funcionais**          |
+| :-----: |    :-----------------: |
+|    01   |    Responsividade   |
+|    02   |    Acessibilidade com Libras   |
+|    03   |    Acessibilidade com Alto Contraste   |
+|    04   |    Conformidade com padrões governamentais   |
+
 </center>
 
 ## 2. User StoryMap
@@ -49,3 +58,4 @@ Tabela de Histórias de Usuário:
 | Versão | Autor | Descrição | Revisor | Data |
 | -------| ----- | --------- | ---- | ----- |
 | 1.0    | [Jefferson Sena](https://github.com/JeffersonSenaa) | Adicionando os requisitos e User story map | [Tiago Albuquerque](https://github.com/Tiago1604)| 01/04/2024 |
+| 1.1    | [Jefferson Sena](https://github.com/JeffersonSenaa) | Adicionando requisitos não funcionais | [Tiago Albuquerque](https://github.com/Tiago1604)| 05/04/2024 |
