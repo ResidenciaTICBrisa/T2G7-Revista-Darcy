@@ -22,7 +22,7 @@ Nessa Sprint 00 tivemos duas reuniões.
 | Data       | Tema | Ata                                
 | :--------: | :----: | :--------------------:                   
 | 27/02/2024 |  Reunião Interna - Apresentação e ambientação   | 
-| 28/02/2024 | Reunião com a Cliente - Kickoff  | [Clique Aqui](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/atas/ata01/)                     
+| 28/02/2024 | Reunião com a Cliente - Kickoff  | [Clique Aqui](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/atas/equipe_cliente/ata01)                     
 
 ## 4. Avaliação do Scrum Master
 
