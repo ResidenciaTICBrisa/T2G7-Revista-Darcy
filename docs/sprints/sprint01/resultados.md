@@ -24,7 +24,7 @@ Nessa Sprint 01 tivemos quatro reuniões.
 | Data       | Tema | Ata                                
 | :--------: | :----: | :--------------------:                   
 | 04/03/2024 |  Sprint Planning   | 
-| 07/03/2024 | Reunião com a Equipe da SECOM  | [Clique Aqui](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/atas/ata02/)
+| 07/03/2024 | Reunião com a Equipe da SECOM  | [Clique Aqui](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/atas/equipe_cliente/ata02)
 | 11/03/2024 | Sprint Review  | 
 | 11/03/2024 | Sprint Retrospective  |                       
 
