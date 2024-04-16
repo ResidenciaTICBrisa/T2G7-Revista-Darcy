@@ -5,31 +5,31 @@
 Com o objetivo de obter mais detalhes do Perfil de Usuários da Revista, foi proposto a divulgação de um formulário com perguntas pertinentes. Com isso, segue aqui uma análise dos dados obtidos a partir das respostas dos leitores da revista. 
 
 ### Questão 01
-![formulario](/assets/idade.png)
+![formulario](https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/idade.png)
 
 ### Questão 02
-![formulario](/assets/vinculo_unb.png)
+![formulario](https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/vinculo_unb.png)
 
 ### Questão 03
-![formulario](/assets/escolaridade.png)
+![formulario](https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/escolaridade.png)
 
 ### Questão 04
-![formulario](/assets/frequencia.png)
+![formulario](https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/frequencia.png)
 
 ### Questão 05
-![formulario](/assets/ocupacao.png)
+![formulario](https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/ocupacao.png)
 
 ### Questão 06
-![formulario](/assets/utilizacao.png)
+![formulario](https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/utilizacao.png)
 
 ### Questão 07
-![formulario](/assets/nunca_utilizou.png)
+![formulario](https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/nunca_utilizou.png)
 
 ### Questão 08
-![formulario](/assets/site_intuitivo.png)
+![formulario](https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/site_intuitivo.png)
 
 ### Questão 09
-![formulario](/assets/plataforma.png)
+![formulario](https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/plataforma.png)
 
 ### Questão 10
 **Há algo no site que te desagrada ou poderia ser aperfeiçoado?**
