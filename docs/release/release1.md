@@ -28,7 +28,7 @@
 ## 3. Mínimo Produto Viável - MVP
 <p align="justify">&emsp;&emsp; O MVP consiste na configuração inicial do site em WordPress, utilizando o Tema GOVBR que segue os padrões governamentais. Desenvolvido como uma iniciativa Open Source pelo IBICT - Instituto Brasileiro de Informação em Ciência e Tecnologia, este tema estabelece a base para a construção da identidade visual do site. O objetivo é criar um produto único, seguindo as diretrizes necessárias em relação à hierarquia da informação.</p> 
 
-![mvp](/assets/mvp.png)
+![mvp](https://raw.githubusercontent.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/main/docs/assets/mvp.png)
 
 
 ## 4. Histórico de Versões
