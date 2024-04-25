@@ -1,7 +1,7 @@
 PROJETO BRISA – LAPPIS/FGA/UNB. 
 REFORMULAÇÃO DO SITE DA REVISTA DARCY
 
-# Ata da Reunião 4
+# Ata da Reunião 5
 - **Data**: 18 de abril de 2024
 - **Horário:** 10h00
 - **Local:** Microsoft Teams
@@ -28,12 +28,12 @@ REFORMULAÇÃO DO SITE DA REVISTA DARCY
 
 1. Arquitetura da informação.
 2. Referências de design da Vanessa.
-3. Prototipação.
+3. Brainstorming com base nas referências.
 
 ## 5. Decisões Tomadas
 
 1. Vanessa irá elaborar um documento com referências de design.
-2. A equipe BRISA irá prototipar com base nessas referências sem perder a hierarquia do GOV-UnB.
+2. A equipe BRISA irá prototipar com base nas referências criadas sem perder a hierarquia do GOV-UnB.
 4. Aguardar o decorrer da greve dos servidores para posteriores validações da equipe de design.
 
 ## 6. Gravação da Reunião
@@ -41,9 +41,9 @@ REFORMULAÇÃO DO SITE DA REVISTA DARCY
 
 ## 7. Próxima Reunião
 
-- **Data:** -
-- **Horário:** -
-- **Objetivo:** -
+- **Data:** 25 de abril de 2024.
+- **Horário:** 10h00
+- **Objetivo:** Análise dos protótipos de alta fidelidade com base nas referências.
 
 ## 8. Responsáveis pela Ata
 | Autor | Descrição | Revisor | Data |
