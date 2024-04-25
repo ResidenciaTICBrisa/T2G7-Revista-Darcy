@@ -1,4 +1,4 @@
-# Ata da Reunião 4 - 09/04
+# Ata da Reunião 5 - 22/04
 
 ## 1. Lista de presença
 
@@ -13,15 +13,13 @@
 
 | Horário de Início | Horário de Término | Local |
 |:-----------------:|:------------------:|:-----:|
-| 15:30 | 16:00 | Sala 313 - LTDEA |
+| 11:00 | 12:00 | CoCreation |
 
 ## 2. Pautas
 
-* Reflexão sobre a Release 1
-* Review da Sprint 03
-* Planejamento da Sprint 04
-* Possibilidade de evoluir o tema via injeção de código
+* Review e Retrospective da Sprint 04.
+* Planejamento da Sprint 05.
 
 ## 3. Atividades Definidas
 
-[Atividades, Prazos e Responsáveis](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/sprints/sprint04/planejamento/)
+[Atividades, Prazos e Responsáveis](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/sprints/sprint05/planejamento/)
