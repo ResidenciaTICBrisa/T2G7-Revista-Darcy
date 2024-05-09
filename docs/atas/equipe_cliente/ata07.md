@@ -27,7 +27,7 @@ REFORMULAÇÃO DO SITE DA REVISTA DARCY
 
 ## 4. Tópicos Discutidos
 
-1. Prótipo da homepage.
+1. Protótipo da homepage.
 2. Migração de dados.
 
 ## 5. Decisões Tomadas
