@@ -19,7 +19,7 @@ Na Sprint 3, focaremos em diversas atividades essenciais para a Revista Darcy. I
 | [#34](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/34) |  Sprint 3 - Refinamento dos Requisitos e Definição do Backlog | [Todos] |
 | [#36](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/36) | Sprint 3 - Desenvolver e Implementar um menu personalizado da Universidade de Brasília (UnB) no site| [José André](https://github.com/joseandre25) |
 | [#37](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/37) | Sprint 3 -  Implementação do Sistema de Assinatura para Recebimento das Próximas Edições da Revista  | [Gabriel Morais](https://github.com/gabriel-moraiss)|
-| [#38](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/38) | Sprint 3 -  Criação da página de notícias  | [Tiago Albuquerque](Tiago1604)|
+| [#38](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/38) | Sprint 3 -  Criação da página de notícias  | [Tiago Albuquerque](https://github.com/Tiago1604)|
 | [#39](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/39) | Sprint 3 -  Desenvolvimento de Página para todas as edições da Revista  | [Jefferson Sena](https://github.com/JeffersonSenaa)|
 | [#40](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/40) | Sprint 3 -  Implementação do Plugin: Plugin Real3D Flipbook PDF Viewer Lite, para leitura online  | [Todos]|
 | [#41](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/41) | Sprint 3 -  Desenvolvimento de protótipo da página inicial  | [Todos]|
