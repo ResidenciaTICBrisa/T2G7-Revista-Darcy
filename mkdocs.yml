@@ -72,6 +72,9 @@ nav:
       - Sprint 07:
         - Planejamento: sprints/sprint07/planejamento.md
         - Resultados: sprints/sprint07/resultados.md
+      - Sprint 08:
+        - Planejamento: sprints/sprint08/planejamento.md
+        - Resultados: sprints/sprint08/resultados.md
     - Atas:
       - Reuniões Internas:
         - Reunião 0: atas/equipe/ata00.md
@@ -82,6 +85,7 @@ nav:
         - Reunião 5: atas/equipe/ata05.md
         - Reunião 6: atas/equipe/ata06.md
         - Reunião 7: atas/equipe/ata07.md
+        - Reunião 8: atas/equipe/ata08.md
       - Reuniões com o Cliente:
         - Reunião 1: atas/equipe_cliente/ata01.md
         - Reunião 2: atas/equipe_cliente/ata02.md
@@ -92,6 +96,7 @@ nav:
         - Reunião 7: atas/equipe_cliente/ata07.md
         - Reunião 8: atas/equipe_cliente/ata08.md
         - Reunião 9: atas/equipe_cliente/ata09.md
+        - Reunião 10: atas/equipe_cliente/ata10.md
   - Releases:
     - Release 1: release/release1.md
       
