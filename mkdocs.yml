@@ -41,6 +41,7 @@ nav:
     - Visão de Projeto: requisitos/visao_de_projeto.md
     - Backlog: requisitos/backlog.md
     - Perfil dos Usuários: requisitos/perfil_dos_usuarios.md
+    - Fluxograma de Navegabilidade: requisitos/fluxograma_de_navegabilidade.md
   - Documentação Interna:
     - Políticas Internas: 
       - Branches: politicas/branches.md
