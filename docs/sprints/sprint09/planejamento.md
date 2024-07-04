@@ -24,8 +24,7 @@ Por fim, seguiremos evoluindo elementos comuns às páginas para alcançar o pro
 | [#108](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/108) | Sprint 09 - Implementação de Ícones no Menu Institucional | [José André](https://github.com/joseandre25) |
 | [#109](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/109) | Sprint 09 - Ajuste de ícones e funcionalidades em todas as páginas | [Jefferson Sena](https://github.com/JeffersonSenaa) |
 | [#110](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/110) | Sprint 09 - Feat: Criação de Artigos Referentes à Edição 30 | [Gabriel Morais](https://github.com/gabriel-moraiss) |
-
-
+| [#115](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/115) | Sprint 09 - Implementação e ajustes de posts da edição 30 e suas responsividades | [Joselito Prado](https://github.com/joselitopradomarques) |
 
 ## 4. Histórico de Versões
 
