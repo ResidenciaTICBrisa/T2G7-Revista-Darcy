@@ -13,7 +13,7 @@ Por fim, seguiremos evoluindo elementos comuns às páginas para alcançar o pro
 
 **Duração**: 14 dias
 
-## 3. Issues (Ainda sendo criadas ao decorrer da sprint)
+## 3. Issues
 
 |                            Issue                             |              Título               |                    Responsáveis                     |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
