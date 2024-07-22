@@ -36,7 +36,8 @@ theme:
 
 nav:
   - Ínicio: index.md
-  - Requisitos:
+  - Landing Page: landingPage/landingPage.html
+  - Requisitos: 
     - Visão de Produto: requisitos/visao_de_produto.md
     - Visão de Projeto: requisitos/visao_de_projeto.md
     - Backlog: requisitos/backlog.md
