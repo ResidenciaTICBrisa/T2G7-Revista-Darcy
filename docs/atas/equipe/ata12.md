@@ -1,4 +1,4 @@
-# Ata da Reunião 11 - 15/07
+# Ata da Reunião 12 - 29/07
 
 ## 1. Lista de presença
 
@@ -17,9 +17,9 @@
 
 ## 2. Pautas
 
-* Review e Retrospective da Sprint 10.
-* Planejamento da Sprint 11.
+* Review e Retrospective da Sprint 11.
+* Planejamento da Sprint 12.
 
 ## 3. Atividades Definidas
 
-[Atividades, Prazos e Responsáveis](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/sprints/sprint11/planejamento/)
+[Atividades, Prazos e Responsáveis](https://residenciaticbrisa.github.io/T2G7-Revista-Darcy/sprints/sprint12/planejamento/)
