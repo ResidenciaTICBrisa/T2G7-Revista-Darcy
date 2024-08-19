@@ -48,6 +48,8 @@ nav:
       - Commit: politicas/commit.md
       - Conduta: politicas/conduta.md
       - Plano de Comunicação: politicas/plano-de-comunicacao.md
+      - Dossie:
+        - Dossie: release/dossie.md
     - Sprints:
       - Sprint 00: 
         - Planejamento: sprints/sprint00/planejamento.md
@@ -74,4 +76,6 @@ nav:
         - Reunião 4: atas/equipe_cliente/ata04.md
   - Releases:
     - Release 1: release/release1.md
+
+    
       
