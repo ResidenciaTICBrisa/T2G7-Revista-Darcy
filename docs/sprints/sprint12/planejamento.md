@@ -11,7 +11,7 @@ O planejado para a Sprint 12 consiste nos ajustes finais do site, que está em a
 
 **Duração**: 21 dias
 
-## 3. Issues (Ainda sendo criadas ao decorrer da sprint)
+## 3. Issues
 
 |                            Issue                             |              Título               |                    Responsáveis                     |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
@@ -28,6 +28,19 @@ O planejado para a Sprint 12 consiste nos ajustes finais do site, que está em a
 | [#147](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/147) | Sprint 12 - Criação de Modelo de botão para posts da Edição 30 | [Luis Filipe](https://github.com/luisfilipe3) |
 | [#148](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/148) | Sprint 12 - Implementando tarefas da Edição 30 que ficaram sem atribuição ou não foram atualizadas ainda | [Luis Filipe](https://github.com/luisfilipe3) |
 | [#149](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/149) | Sprint 12 - Criação de página template para artigos | [Jefferson Sena](https://github.com/JeffersonSenaa) |
+| [#151](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/151) | Sprint 12 - Feat: Criação da Página de sugestão de Pauta | [Tiago Albuquerque](https://github.com/Tiago1604) |
+| [#152](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/152) | Sprint 12 - Feat: Criação da Edição 25 | [Tiago Albuquerque](https://github.com/Tiago1604) |
+| [#153](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/153) | Sprint 12 - Feat: Criação das Páginas de Extensão | [José André](https://github.com/joseandre25) |
+| [#154](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/154) | Sprint 12 - Feat: Criação das Páginas "Darcy Nas Escolas" e "A Revista" no Menu "Sobre" | [José André](https://github.com/joseandre25) |
+| [#156](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/156) | Sprint 12 - Ajustes finais para Release 4 | [Todos] |
+| [#157](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/157) | Sprint 12 - Reorganização das opções do menu principal  | [José André](https://github.com/joseandre25) |
+| [#158](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/158) | Sprint 12 - Ajustes gerais de páginas para refinar o design e finalização de ajustes em edições 24 e 21 | [Luis Filipe](https://github.com/luisfilipe3) |
+| [#159](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/159) | Sprint 12 - Criação de Documento Dossie | [Jefferson Sena](https://github.com/JeffersonSenaa)    |
+| [#160](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/160) | Sprint 12 - Feat: Criação do Botão e ajustes em edições | [Jefferson Sena](https://github.com/JeffersonSenaa) |
+| [#161](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/161) | Sprint 12 - Feat: Criação da página de "contato" | [Tiago Albuquerque](https://github.com/Tiago1604) |
+| [#162](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/162) | Sprint 12 - Ajustes e avanços na Landing Page | [Jefferson Sena](https://github.com/JeffersonSenaa) |
+| [#163](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/163) | Sprint 12 - Feat: Criação da Página de "Assine a Darcy" | [Tiago Albuquerque](https://github.com/Tiago1604) |
+| [#164](https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy/issues/164) | Sprint 12 - Feat: Criar Páginas dentro de "Produtos em Projetos de Extensão" | [José André](https://github.com/joseandre25) |
 
 
 ## 4. Histórico de Versões
