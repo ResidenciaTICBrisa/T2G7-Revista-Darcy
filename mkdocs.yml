@@ -42,6 +42,7 @@ nav:
     - Visão de Projeto: requisitos/visao_de_projeto.md
     - Backlog: requisitos/backlog.md
     - Perfil dos Usuários: requisitos/perfil_dos_usuarios.md
+    - Fluxograma de Navegabilidade: requisitos/fluxograma_de_navegabilidade.md
   - Documentação Interna:
     - Políticas Internas: 
       - Branches: politicas/branches.md
@@ -62,19 +63,69 @@ nav:
       - Sprint 03: 
         - Planejamento: sprints/sprint03/planejamento.md
         - Resultados: sprints/sprint03/resultados.md
+      - Sprint 04:
+        - Planejamento: sprints/sprint04/planejamento.md
+        - Resultados: sprints/sprint04/resultados.md
+      - Sprint 05:
+        - Planejamento: sprints/sprint05/planejamento.md
+        - Resultados: sprints/sprint05/resultados.md
+      - Sprint 06:
+        - Planejamento: sprints/sprint06/planejamento.md
+        - Resultados: sprints/sprint06/resultados.md
+      - Sprint 07:
+        - Planejamento: sprints/sprint07/planejamento.md
+        - Resultados: sprints/sprint07/resultados.md
+      - Sprint 08:
+        - Planejamento: sprints/sprint08/planejamento.md
+        - Resultados: sprints/sprint08/resultados.md
+      - Sprint 09:
+        - Planejamento: sprints/sprint09/planejamento.md
+        - Resultados: sprints/sprint09/resultados.md
+      - Sprint 10:
+        - Planejamento: sprints/sprint10/planejamento.md
+        - Resultados: sprints/sprint10/resultados.md
+      - Sprint 11:
+        - Planejamento: sprints/sprint11/planejamento.md
+        - Resultados: sprints/sprint11/resultados.md
+      - Sprint 12:
+        - Planejamento: sprints/sprint12/planejamento.md
+        - Resultados: sprints/sprint12/resultados.md
     - Atas:
       - Reuniões Internas:
         - Reunião 0: atas/equipe/ata00.md
         - Reunião 1: atas/equipe/ata01.md
         - Reunião 2: atas/equipe/ata02.md
         - Reunião 3: atas/equipe/ata03.md
+        - Reunião 4: atas/equipe/ata04.md
+        - Reunião 5: atas/equipe/ata05.md
+        - Reunião 6: atas/equipe/ata06.md
+        - Reunião 7: atas/equipe/ata07.md
+        - Reunião 8: atas/equipe/ata08.md
+        - Reunião 9: atas/equipe/ata09.md
+        - Reunião 10: atas/equipe/ata10.md
+        - Reunião 11: atas/equipe/ata11.md
+        - Reunião 12: atas/equipe/ata12.md
       - Reuniões com o Cliente:
         - Reunião 1: atas/equipe_cliente/ata01.md
         - Reunião 2: atas/equipe_cliente/ata02.md
         - Reunião 3: atas/equipe_cliente/ata03.md
         - Reunião 4: atas/equipe_cliente/ata04.md
+        - Reunião 5: atas/equipe_cliente/ata05.md
+        - Reunião 6: atas/equipe_cliente/ata06.md
+        - Reunião 7: atas/equipe_cliente/ata07.md
+        - Reunião 8: atas/equipe_cliente/ata08.md
+        - Reunião 9: atas/equipe_cliente/ata09.md
+        - Reunião 10: atas/equipe_cliente/ata10.md
+        - Reunião 11: atas/equipe_cliente/ata11.md
+        - Reunião 12: atas/equipe_cliente/ata12.md
+        - Reunião 13: atas/equipe_cliente/ata13.md
+        - Reunião 14: atas/equipe_cliente/ata14.md
+        - Reunião 15: atas/equipe_cliente/ata15.md
+        - Reunião 16: atas/equipe_cliente/ata16.md
+        - Reunião 17: atas/equipe_cliente/ata17.md
+        - Reunião 18: atas/equipe_cliente/ata18.md
   - Releases:
     - Release 1: release/release1.md
-
-    
+  - Workshop:
+    - Workshop Prático - Implementando o Tema GovBR: workshop/comandos.md
       
